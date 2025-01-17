@@ -4,10 +4,6 @@ require_once 'header.php';
 ?>
 
 
-<div class="w3-panel">
-    <p>This is a simple blog project for my PHP development skills.</p>
-</div>
-
 <?php
 // COUNT
 $sql = "SELECT COUNT(*) FROM posts";
